@@ -32,7 +32,7 @@
 - [Online Resume Builder](https://github.com/AliKhodayari1381/online-resume-builder)  
   **رزومه‌ساز آنلاین با Django**  
 
-- [Online Cafe Menu](https://github.com/AliKhodayari1381/online-cafe-menu)  
+- [Online Cafe Menu](https://github.com/AliKhodayari1381/online-menu-cafe)  
   **منوی آنلاین کافه و رستوران**
 
 ---

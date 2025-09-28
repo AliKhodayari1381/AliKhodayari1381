@@ -29,11 +29,12 @@
 
 ## 📂 پروژه‌های من
 
-- [Online Resume Builder](https://github.com/AliKhodayari1381/online-resume-builder)  
-  **رزومه‌ساز آنلاین با Django**  
+- [attendance-Qr](https://github.com/AliKhodayari1381/attendance-qr)
 
+- [Online Resume Builder](https://github.com/AliKhodayari1381/online-resume-builder)  
+  
 - [Online Cafe Menu](https://github.com/AliKhodayari1381/online-menu-cafe)  
-  **منوی آنلاین کافه و رستوران**
+
 
 ---
 

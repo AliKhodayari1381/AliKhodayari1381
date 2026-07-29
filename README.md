@@ -44,24 +44,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-#### 💈 [ArgAra](https://argara.ir)
-*My own startup — Founder & CEO, live in production*
-
-Persian online booking platform for beauty salons (customer / barber /
-admin roles). My own idea, founded and built end-to-end — from product
-concept to backend, deployment, and infrastructure.
-
-- 🧠 Django REST — JWT auth, **PostGIS** geolocation search, Celery/Redis
-  background jobs, wallet & tiered-commission billing engine
-- 💳 Zarinpal payments + Kavenegar SMS/OTP integration
-- ⚡ Next.js 14 frontend — React Query, Zustand, installable PWA
-- 🐳 Multi-service Docker Compose behind Nginx + Let's Encrypt, with a
-  **GitHub Actions CI/CD** pipeline for zero-touch deploys
-
-</td>
-<td width="50%" valign="top">
 
 #### 📷 [Attendance QR](https://github.com/AliKhodayari1381/attendance-project)
 QR-code based attendance system with separate admin and employee portals.
